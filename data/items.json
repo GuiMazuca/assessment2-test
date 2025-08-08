@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop Pro",
+    "category": "Electronics",
+    "price": 2499,
+    "description": "High-performance laptop for professionals"
+  },
+  {
+    "id": 2,
+    "name": "Noise Cancelling Headphones",
+    "category": "Electronics",
+    "price": 399,
+    "description": "Premium wireless headphones with active noise cancellation"
+  },
+  {
+    "id": 3,
+    "name": "Ultra‑Wide Monitor",
+    "category": "Electronics",
+    "price": 999,
+    "description": "34-inch curved ultrawide monitor for productivity"
+  },
+  {
+    "id": 4,
+    "name": "Ergonomic Chair",
+    "category": "Furniture",
+    "price": 799,
+    "description": "Comfortable office chair with lumbar support"
+  },
+  {
+    "id": 5,
+    "name": "Standing Desk",
+    "category": "Furniture",
+    "price": 1199,
+    "description": "Height-adjustable standing desk"
+  },
+  {
+    "id": 6,
+    "name": "Gaming Mouse",
+    "category": "Electronics",
+    "price": 129,
+    "description": "High-precision gaming mouse with RGB lighting"
+  },
+  {
+    "id": 7,
+    "name": "Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 189,
+    "description": "Cherry MX Blue switches mechanical keyboard"
+  },
+  {
+    "id": 8,
+    "name": "4K Webcam",
+    "category": "Electronics",
+    "price": 299,
+    "description": "Ultra HD webcam for streaming and video calls"
+  },
+  {
+    "id": 9,
+    "name": "Wireless Charger",
+    "category": "Electronics",
+    "price": 49,
+    "description": "Fast wireless charging pad"
+  },
+  {
+    "id": 10,
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 159,
+    "description": "Portable Bluetooth speaker with premium sound"
+  },
+  {
+    "id": 11,
+    "name": "Coffee Table",
+    "category": "Furniture",
+    "price": 349,
+    "description": "Modern glass coffee table"
+  },
+  {
+    "id": 12,
+    "name": "Bookshelf",
+    "category": "Furniture",
+    "price": 249,
+    "description": "5-tier wooden bookshelf"
+  },
+  {
+    "id": 13,
+    "name": "Floor Lamp",
+    "category": "Furniture",
+    "price": 129,
+    "description": "LED floor lamp with dimmer"
+  },
+  {
+    "id": 14,
+    "name": "Office Desk",
+    "category": "Furniture",
+    "price": 599,
+    "description": "L-shaped office desk with drawers"
+  },
+  {
+    "id": 15,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 899,
+    "description": "Latest flagship smartphone"
+  },
+  {
+    "id": 16,
+    "name": "Tablet",
+    "category": "Electronics",
+    "price": 649,
+    "description": "10-inch tablet with stylus support"
+  },
+  {
+    "id": 17,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 399,
+    "description": "Fitness tracking smartwatch"
+  },
+  {
+    "id": 18,
+    "name": "Portable SSD",
+    "category": "Electronics",
+    "price": 199,
+    "description": "1TB portable SSD drive"
+  },
+  {
+    "id": 19,
+    "name": "USB-C Hub",
+    "category": "Electronics",
+    "price": 79,
+    "description": "7-in-1 USB-C hub with HDMI"
+  },
+  {
+    "id": 20,
+    "name": "Desk Organizer",
+    "category": "Office",
+    "price": 39,
+    "description": "Bamboo desk organizer with compartments"
+  },
+  {
+    "id": 21,
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 249,
+    "description": "True wireless earbuds with ANC"
+  },
+  {
+    "id": 22,
+    "name": "Phone Stand",
+    "category": "Electronics",
+    "price": 25,
+    "description": "Adjustable phone stand for desk"
+  },
+  {
+    "id": 23,
+    "name": "Monitor Arm",
+    "category": "Electronics",
+    "price": 149,
+    "description": "Dual monitor arm mount"
+  },
+  {
+    "id": 24,
+    "name": "Cable Management",
+    "category": "Office",
+    "price": 29,
+    "description": "Under-desk cable management tray"
+  },
+  {
+    "id": 25,
+    "name": "Desk Pad",
+    "category": "Office",
+    "price": 35,
+    "description": "Large leather desk pad"
+  },
+  {
+    "id": 26,
+    "name": "Printer",
+    "category": "Electronics",
+    "price": 199,
+    "description": "Wireless color inkjet printer"
+  },
+  {
+    "id": 27,
+    "name": "Shredder",
+    "category": "Office",
+    "price": 89,
+    "description": "Cross-cut paper shredder"
+  },
+  {
+    "id": 28,
+    "name": "Air Purifier",
+    "category": "Home",
+    "price": 299,
+    "description": "HEPA air purifier for large rooms"
+  },
+  {
+    "id": 29,
+    "name": "Humidifier",
+    "category": "Home",
+    "price": 129,
+    "description": "Ultrasonic cool mist humidifier"
+  },
+  {
+    "id": 30,
+    "name": "Desk Fan",
+    "category": "Home",
+    "price": 69,
+    "description": "Quiet desktop fan with remote"
+  },
+  {
+    "id": 31,
+    "name": "Reading Light",
+    "category": "Furniture",
+    "price": 89,
+    "description": "Adjustable LED reading light"
+  },
+  {
+    "id": 32,
+    "name": "Storage Bin",
+    "category": "Home",
+    "price": 19,
+    "description": "Fabric storage bin with handles"
+  },
+  {
+    "id": 33,
+    "name": "Wall Clock",
+    "category": "Home",
+    "price": 45,
+    "description": "Modern wall clock with silent movement"
+  },
+  {
+    "id": 34,
+    "name": "Picture Frame",
+    "category": "Home",
+    "price": 29,
+    "description": "Digital picture frame 10-inch"
+  },
+  {
+    "id": 35,
+    "name": "Notebook",
+    "category": "Office",
+    "price": 15,
+    "description": "Dotted bullet journal notebook"
+  },
+  {
+    "id": 36,
+    "name": "Pen Set",
+    "category": "Office",
+    "price": 49,
+    "description": "Premium ballpoint pen set"
+  },
+  {
+    "id": 37,
+    "name": "Stapler",
+    "category": "Office",
+    "price": 25,
+    "description": "Heavy-duty desktop stapler"
+  },
+  {
+    "id": 38,
+    "name": "Hole Punch",
+    "category": "Office",
+    "price": 19,
+    "description": "3-hole paper punch"
+  },
+  {
+    "id": 39,
+    "name": "Calculator",
+    "category": "Office",
+    "price": 35,
+    "description": "Scientific calculator"
+  },
+  {
+    "id": 40,
+    "name": "Whiteboard",
+    "category": "Office",
+    "price": 79,
+    "description": "Magnetic whiteboard 24x36 inches"
+  },
+  {
+    "id": 41,
+    "name": "Gaming Chair",
+    "category": "Furniture",
+    "price": 399,
+    "description": "Racing style gaming chair with RGB"
+  },
+  {
+    "id": 42,
+    "name": "Monitor Light",
+    "category": "Electronics",
+    "price": 99,
+    "description": "Screen light bar for monitor"
+  },
+  {
+    "id": 43,
+    "name": "Power Strip",
+    "category": "Electronics",
+    "price": 39,
+    "description": "Smart power strip with USB ports"
+  },
+  {
+    "id": 44,
+    "name": "Surge Protector",
+    "category": "Electronics",
+    "price": 59,
+    "description": "12-outlet surge protector"
+  },
+  {
+    "id": 45,
+    "name": "Extension Cord",
+    "category": "Electronics",
+    "price": 29,
+    "description": "Heavy-duty extension cord 25ft"
+  },
+  {
+    "id": 46,
+    "name": "Laptop Stand",
+    "category": "Electronics",
+    "price": 69,
+    "description": "Aluminum laptop stand with ventilation"
+  },
+  {
+    "id": 47,
+    "name": "Document Camera",
+    "category": "Electronics",
+    "price": 199,
+    "description": "HD document camera for presentations"
+  },
+  {
+    "id": 48,
+    "name": "Conference Speaker",
+    "category": "Electronics",
+    "price": 299,
+    "description": "360-degree conference speakerphone"
+  },
+  {
+    "id": 49,
+    "name": "Presentation Remote",
+    "category": "Electronics",
+    "price": 49,
+    "description": "Wireless presentation remote with laser"
+  },
+  {
+    "id": 50,
+    "name": "Graphics Tablet",
+    "category": "Electronics",
+    "price": 199,
+    "description": "Digital drawing tablet with stylus"
+  },
+  {
+    "id": 51,
+    "name": "External Hard Drive",
+    "category": "Electronics",
+    "price": 149,
+    "description": "2TB external hard drive"
+  },
+  {
+    "id": 52,
+    "name": "Memory Card",
+    "category": "Electronics",
+    "price": 39,
+    "description": "128GB microSD card"
+  },
+  {
+    "id": 53,
+    "name": "Card Reader",
+    "category": "Electronics",
+    "price": 19,
+    "description": "USB 3.0 multi-card reader"
+  },
+  {
+    "id": 54,
+    "name": "Adapter Set",
+    "category": "Electronics",
+    "price": 29,
+    "description": "Universal travel adapter set"
+  },
+  {
+    "id": 55,
+    "name": "HDMI Cable",
+    "category": "Electronics",
+    "price": 25,
+    "description": "4K HDMI cable 6ft"
+  },
+  {
+    "id": 56,
+    "name": "USB Cable",
+    "category": "Electronics",
+    "price": 15,
+    "description": "USB-C to USB-A cable"
+  },
+  {
+    "id": 57,
+    "name": "Audio Cable",
+    "category": "Electronics",
+    "price": 19,
+    "description": "3.5mm audio cable 10ft"
+  },
+  {
+    "id": 58,
+    "name": "Ethernet Cable",
+    "category": "Electronics",
+    "price": 12,
+    "description": "Cat 6 ethernet cable 25ft"
+  },
+  {
+    "id": 59,
+    "name": "Mouse Pad",
+    "category": "Electronics",
+    "price": 29,
+    "description": "XXL gaming mouse pad"
+  },
+  {
+    "id": 60,
+    "name": "Wrist Rest",
+    "category": "Electronics",
+    "price": 35,
+    "description": "Memory foam wrist rest"
+  },
+  {
+    "id": 61,
+    "name": "Monitor Stand",
+    "category": "Furniture",
+    "price": 59,
+    "description": "Wooden monitor stand with storage"
+  },
+  {
+    "id": 62,
+    "name": "Desk Shelf",
+    "category": "Furniture",
+    "price": 89,
+    "description": "Desktop shelf organizer"
+  },
+  {
+    "id": 63,
+    "name": "File Cabinet",
+    "category": "Furniture",
+    "price": 199,
+    "description": "2-drawer locking file cabinet"
+  },
+  {
+    "id": 64,
+    "name": "Storage Cart",
+    "category": "Furniture",
+    "price": 79,
+    "description": "Rolling storage cart with drawers"
+  },
+  {
+    "id": 65,
+    "name": "Coat Rack",
+    "category": "Furniture",
+    "price": 69,
+    "description": "Wooden coat rack stand"
+  },
+  {
+    "id": 66,
+    "name": "Trash Can",
+    "category": "Office",
+    "price": 35,
+    "description": "Stainless steel trash can with lid"
+  },
+  {
+    "id": 67,
+    "name": "Paper Towels",
+    "category": "Office",
+    "price": 19,
+    "description": "Premium paper towels 12-pack"
+  },
+  {
+    "id": 68,
+    "name": "Hand Sanitizer",
+    "category": "Office",
+    "price": 8,
+    "description": "Antibacterial hand sanitizer"
+  },
+  {
+    "id": 69,
+    "name": "Tissues",
+    "category": "Office",
+    "price": 12,
+    "description": "Facial tissues 6-box pack"
+  },
+  {
+    "id": 70,
+    "name": "Cleaning Wipes",
+    "category": "Office",
+    "price": 15,
+    "description": "Disinfecting wipes 3-pack"
+  },
+  {
+    "id": 71,
+    "name": "Coffee Mug",
+    "category": "Office",
+    "price": 19,
+    "description": "Ceramic coffee mug 16oz"
+  },
+  {
+    "id": 72,
+    "name": "Water Bottle",
+    "category": "Office",
+    "price": 29,
+    "description": "Insulated water bottle 32oz"
+  },
+  {
+    "id": 73,
+    "name": "Lunch Box",
+    "category": "Office",
+    "price": 39,
+    "description": "Insulated lunch box with containers"
+  },
+  {
+    "id": 74,
+    "name": "Desk Clock",
+    "category": "Office",
+    "price": 25,
+    "description": "Digital desk clock with alarm"
+  },
+  {
+    "id": 75,
+    "name": "Calendar",
+    "category": "Office",
+    "price": 15,
+    "description": "2025 desk calendar"
+  },
+  {
+    "id": 76,
+    "name": "Planner",
+    "category": "Office",
+    "price": 29,
+    "description": "Weekly planner notebook"
+  },
+  {
+    "id": 77,
+    "name": "Sticky Notes",
+    "category": "Office",
+    "price": 8,
+    "description": "Colorful sticky notes pack"
+  },
+  {
+    "id": 78,
+    "name": "Highlighters",
+    "category": "Office",
+    "price": 12,
+    "description": "Fluorescent highlighter set"
+  },
+  {
+    "id": 79,
+    "name": "Markers",
+    "category": "Office",
+    "price": 15,
+    "description": "Permanent marker set"
+  },
+  {
+    "id": 80,
+    "name": "Pencils",
+    "category": "Office",
+    "price": 9,
+    "description": "Mechanical pencils 12-pack"
+  },
+  {
+    "id": 81,
+    "name": "Eraser",
+    "category": "Office",
+    "price": 5,
+    "description": "White eraser pack"
+  },
+  {
+    "id": 82,
+    "name": "Ruler",
+    "category": "Office",
+    "price": 8,
+    "description": "12-inch plastic ruler"
+  },
+  {
+    "id": 83,
+    "name": "Scissors",
+    "category": "Office",
+    "price": 12,
+    "description": "Stainless steel scissors"
+  },
+  {
+    "id": 84,
+    "name": "Tape Dispenser",
+    "category": "Office",
+    "price": 18,
+    "description": "Heavy-duty tape dispenser"
+  },
+  {
+    "id": 85,
+    "name": "Glue Stick",
+    "category": "Office",
+    "price": 6,
+    "description": "Washable glue stick"
+  },
+  {
+    "id": 86,
+    "name": "Paper Clips",
+    "category": "Office",
+    "price": 7,
+    "description": "Metal paper clips 100-count"
+  },
+  {
+    "id": 87,
+    "name": "Binder Clips",
+    "category": "Office",
+    "price": 9,
+    "description": "Assorted binder clips"
+  },
+  {
+    "id": 88,
+    "name": "Push Pins",
+    "category": "Office",
+    "price": 6,
+    "description": "Colored push pins 100-count"
+  },
+  {
+    "id": 89,
+    "name": "Rubber Bands",
+    "category": "Office",
+    "price": 5,
+    "description": "Assorted rubber bands"
+  },
+  {
+    "id": 90,
+    "name": "Index Cards",
+    "category": "Office",
+    "price": 8,
+    "description": "Ruled index cards 100-count"
+  },
+  {
+    "id": 91,
+    "name": "Folders",
+    "category": "Office",
+    "price": 12,
+    "description": "Manila file folders 25-pack"
+  },
+  {
+    "id": 92,
+    "name": "Binders",
+    "category": "Office",
+    "price": 15,
+    "description": "3-ring binders 3-pack"
+  },
+  {
+    "id": 93,
+    "name": "Sheet Protectors",
+    "category": "Office",
+    "price": 10,
+    "description": "Clear sheet protectors 100-pack"
+  },
+  {
+    "id": 94,
+    "name": "Labels",
+    "category": "Office",
+    "price": 8,
+    "description": "Address labels 1000-count"
+  },
+  {
+    "id": 95,
+    "name": "Envelopes",
+    "category": "Office",
+    "price": 12,
+    "description": "Business envelopes 100-count"
+  },
+  {
+    "id": 96,
+    "name": "Copy Paper",
+    "category": "Office",
+    "price": 25,
+    "description": "White copy paper 500 sheets"
+  },
+  {
+    "id": 97,
+    "name": "Photo Paper",
+    "category": "Office",
+    "price": 19,
+    "description": "Glossy photo paper 100 sheets"
+  },
+  {
+    "id": 98,
+    "name": "Cardstock",
+    "category": "Office",
+    "price": 15,
+    "description": "Heavy cardstock 250 sheets"
+  },
+  {
+    "id": 99,
+    "name": "Ink Cartridge",
+    "category": "Electronics",
+    "price": 45,
+    "description": "Black ink cartridge"
+  },
+  {
+    "id": 100,
+    "name": "Toner Cartridge",
+    "category": "Electronics",
+    "price": 89,
+    "description": "Laser toner cartridge"
+  }
+]
